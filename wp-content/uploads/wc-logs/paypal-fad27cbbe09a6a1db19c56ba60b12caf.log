@@ -1,0 +1,546 @@
+2017-12-01T14:31:46+00:00 INFO Generating payment form for order 766. Notify URL: http://istinniy-put.com/wc-api/WC_Gateway_Paypal/
+2017-12-01T14:31:46+00:00 INFO PayPal Request Args for order 766: cmd=_cart&business=hrechukhin%40gmail.com&no_note=1&currency_code=RUB&charset=utf-8&rm=1&upload=1&return=http%3A%2F%2Fistinniy-put.com%2Fcheckout%2Forder-received%2F766%3Fkey%3Dwc_order_5a213da25554c%26utm_nooverride%3D1&cancel_return=http%3A%2F%2Fistinniy-put.com%2Fcart%2F%3Fcancel_order%3Dtrue%26order%3Dwc_order_5a213da25554c%26order_id%3D766%26redirect%26_wpnonce%3D77354abae0&page_style=&image_url=&paymentaction=sale&bn=WooThemes_Cart&invoice=WC-766&custom=%7B%22order_id%22%3A766%2C%22order_key%22%3A%22wc_order_5a213da25554c%22%7D&notify_url=http%3A%2F%2Fistinniy-put.com%2Fwc-api%2FWC_Gateway_Paypal%2F&first_name=dfmnvhjfg&last_name=fdmkgbg&address1=dkfgnbdfkjg&address2=&city=dfmhndfh&state=&zip=DFGDFGD&country=RU&email=babanjerelo%40gmail.com&night_phone_b=35224557&no_shipping=1&tax_cart=0.00&item_name_1=%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8&quantity_1=1&amount_1=50&item_number_1=
+2018-04-21T18:32:37+00:00 INFO Generating payment form for order 1492. Notify URL: https://istinniy-put.com/wc-api/WC_Gateway_Paypal/
+2018-04-21T18:32:37+00:00 INFO PayPal Request Args for order 1492: cmd=_cart&business=istinniyput%40yandex.ru&no_note=1&currency_code=RUB&charset=utf-8&rm=2&upload=1&return=https%3A%2F%2Fistinniy-put.com%2Fcheckout%2Forder-received%2F1492%2F%3Fkey%3Dwc_order_5adb5994dd823%26utm_nooverride%3D1&cancel_return=https%3A%2F%2Fistinniy-put.com%2Fcart%2F%3Fcancel_order%3Dtrue%26order%3Dwc_order_5adb5994dd823%26order_id%3D1492%26redirect%26_wpnonce%3Dd047687878&page_style=&image_url=&paymentaction=sale&bn=WooThemes_Cart&invoice=WC-1492&custom=%7B%22order_id%22%3A1492%2C%22order_key%22%3A%22wc_order_5adb5994dd823%22%7D&notify_url=https%3A%2F%2Fistinniy-put.com%2Fwc-api%2FWC_Gateway_Paypal%2F&first_name=%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0&last_name=%D0%9B%D0%B8%D1%81%D0%B8%D0%BD%D0%B0&address1=7&address2=68&city=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&state=&zip=143390&country=RU&email=m.malash%40yndex.ru&night_phone_b=89105078578&no_shipping=1&tax_cart=0.00&item_name_1=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0+%D0%BD%D0%B0+1+%D0%B3%D0%BE%D0%B4&quantity_1=1&amount_1=2000&item_number_1=
+2018-04-21T22:00:33+00:00 INFO Generating payment form for order 1493. Notify URL: https://istinniy-put.com/wc-api/WC_Gateway_Paypal/
+2018-04-21T22:00:33+00:00 INFO PayPal Request Args for order 1493: cmd=_cart&business=istinniyput%40yandex.ru&no_note=1&currency_code=RUB&charset=utf-8&rm=2&upload=1&return=https%3A%2F%2Fistinniy-put.com%2Fcheckout%2Forder-received%2F1493%2F%3Fkey%3Dwc_order_5adb8a50db31e%26utm_nooverride%3D1&cancel_return=https%3A%2F%2Fistinniy-put.com%2Fcart%2F%3Fcancel_order%3Dtrue%26order%3Dwc_order_5adb8a50db31e%26order_id%3D1493%26redirect%26_wpnonce%3Dd047687878&page_style=&image_url=&paymentaction=sale&bn=WooThemes_Cart&invoice=WC-1493&custom=%7B%22order_id%22%3A1493%2C%22order_key%22%3A%22wc_order_5adb8a50db31e%22%7D&notify_url=https%3A%2F%2Fistinniy-put.com%2Fwc-api%2FWC_Gateway_Paypal%2F&first_name=%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0&last_name=%D0%9B%D0%B8%D1%81%D0%B8%D0%BD%D0%B0&address1=7&address2=68&city=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&state=&zip=143390&country=RU&email=m.malash%40yndex.ru&night_phone_b=89105078578&no_shipping=1&tax_cart=0.00&item_name_1=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0+%D0%BD%D0%B0+1+%D0%B3%D0%BE%D0%B4&quantity_1=1&amount_1=2000&item_number_1=
+2018-04-22T15:51:24+00:00 INFO Generating payment form for order 1494. Notify URL: https://istinniy-put.com/wc-api/WC_Gateway_Paypal/
+2018-04-22T15:51:24+00:00 INFO PayPal Request Args for order 1494: cmd=_cart&business=istinniyput%40yandex.ru&no_note=1&currency_code=RUB&charset=utf-8&rm=2&upload=1&return=https%3A%2F%2Fistinniy-put.com%2Fcheckout%2Forder-received%2F1494%2F%3Fkey%3Dwc_order_5adc854bc982c%26utm_nooverride%3D1&cancel_return=https%3A%2F%2Fistinniy-put.com%2Fcart%2F%3Fcancel_order%3Dtrue%26order%3Dwc_order_5adc854bc982c%26order_id%3D1494%26redirect%26_wpnonce%3Db950e1bfa6&page_style=&image_url=&paymentaction=sale&bn=WooThemes_Cart&invoice=WC-1494&custom=%7B%22order_id%22%3A1494%2C%22order_key%22%3A%22wc_order_5adc854bc982c%22%7D&notify_url=https%3A%2F%2Fistinniy-put.com%2Fwc-api%2FWC_Gateway_Paypal%2F&first_name=%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0&last_name=%D0%9B%D0%B8%D1%81%D0%B8%D0%BD%D0%B0&address1=7&address2=68&city=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&state=&zip=143390&country=RU&email=m.malash%40yndex.ru&night_phone_b=89105078578&no_shipping=1&tax_cart=0.00&item_name_1=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0+%D0%BD%D0%B0+1+%D0%B3%D0%BE%D0%B4&quantity_1=1&amount_1=2000&item_number_1=
+2018-04-22T19:00:36+00:00 INFO Generating payment form for order 1495. Notify URL: https://istinniy-put.com/wc-api/WC_Gateway_Paypal/
+2018-04-22T19:00:36+00:00 INFO PayPal Request Args for order 1495: cmd=_cart&business=istinniyput%40yandex.ru&no_note=1&currency_code=RUB&charset=utf-8&rm=2&upload=1&return=https%3A%2F%2Fistinniy-put.com%2Fcheckout%2Forder-received%2F1495%2F%3Fkey%3Dwc_order_5adcb1a411f23%26utm_nooverride%3D1&cancel_return=https%3A%2F%2Fistinniy-put.com%2Fcart%2F%3Fcancel_order%3Dtrue%26order%3Dwc_order_5adcb1a411f23%26order_id%3D1495%26redirect%26_wpnonce%3Db950e1bfa6&page_style=&image_url=&paymentaction=sale&bn=WooThemes_Cart&invoice=WC-1495&custom=%7B%22order_id%22%3A1495%2C%22order_key%22%3A%22wc_order_5adcb1a411f23%22%7D&notify_url=https%3A%2F%2Fistinniy-put.com%2Fwc-api%2FWC_Gateway_Paypal%2F&first_name=%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0&last_name=%D0%9B%D0%B8%D1%81%D0%B8%D0%BD%D0%B0&address1=7&address2=68&city=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&state=&zip=143390&country=RU&email=m.malash%40yndex.ru&night_phone_b=89105078578&no_shipping=1&tax_cart=0.00&item_name_1=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0+%D0%BD%D0%B0+1+%D0%B3%D0%BE%D0%B4&quantity_1=1&amount_1=2000&item_number_1=
+2018-04-22T21:27:07+00:00 INFO Generating payment form for order 1496. Notify URL: https://istinniy-put.com/wc-api/WC_Gateway_Paypal/
+2018-04-22T21:27:07+00:00 INFO PayPal Request Args for order 1496: cmd=_cart&business=istinniyput%40yandex.ru&no_note=1&currency_code=RUB&charset=utf-8&rm=2&upload=1&return=https%3A%2F%2Fistinniy-put.com%2Fcheckout%2Forder-received%2F1496%2F%3Fkey%3Dwc_order_5adcd3fade4da%26utm_nooverride%3D1&cancel_return=https%3A%2F%2Fistinniy-put.com%2Fcart%2F%3Fcancel_order%3Dtrue%26order%3Dwc_order_5adcd3fade4da%26order_id%3D1496%26redirect%26_wpnonce%3Db950e1bfa6&page_style=&image_url=&paymentaction=sale&bn=WooThemes_Cart&invoice=WC-1496&custom=%7B%22order_id%22%3A1496%2C%22order_key%22%3A%22wc_order_5adcd3fade4da%22%7D&notify_url=https%3A%2F%2Fistinniy-put.com%2Fwc-api%2FWC_Gateway_Paypal%2F&first_name=%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0&last_name=%D0%9B%D0%B8%D1%81%D0%B8%D0%BD%D0%B0&address1=7&address2=68&city=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&state=&zip=143390&country=RU&email=m.malash%40yndex.ru&night_phone_b=89105078578&no_shipping=1&tax_cart=0.00&item_name_1=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0+%D0%BD%D0%B0+1+%D0%B3%D0%BE%D0%B4&quantity_1=1&amount_1=2000&item_number_1=
+2018-04-22T21:35:42+00:00 INFO Generating payment form for order 1497. Notify URL: https://istinniy-put.com/wc-api/WC_Gateway_Paypal/
+2018-04-22T21:35:42+00:00 INFO PayPal Request Args for order 1497: cmd=_cart&business=istinniyput%40yandex.ru&no_note=1&currency_code=RUB&charset=utf-8&rm=2&upload=1&return=https%3A%2F%2Fistinniy-put.com%2Fcheckout%2Forder-received%2F1497%2F%3Fkey%3Dwc_order_5adcd5fe8a0a5%26utm_nooverride%3D1&cancel_return=https%3A%2F%2Fistinniy-put.com%2Fcart%2F%3Fcancel_order%3Dtrue%26order%3Dwc_order_5adcd5fe8a0a5%26order_id%3D1497%26redirect%26_wpnonce%3Db950e1bfa6&page_style=&image_url=&paymentaction=sale&bn=WooThemes_Cart&invoice=WC-1497&custom=%7B%22order_id%22%3A1497%2C%22order_key%22%3A%22wc_order_5adcd5fe8a0a5%22%7D&notify_url=https%3A%2F%2Fistinniy-put.com%2Fwc-api%2FWC_Gateway_Paypal%2F&first_name=%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0&last_name=%D0%9B%D0%B8%D1%81%D0%B8%D0%BD%D0%B0&address1=7&address2=68&city=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&state=&zip=143390&country=RU&email=m.malash%40yndex.ru&night_phone_b=89105078578&no_shipping=1&tax_cart=0.00&item_name_1=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0+%D0%BD%D0%B0+1+%D0%B3%D0%BE%D0%B4&quantity_1=1&amount_1=2000&item_number_1=
+2018-04-23T08:04:48+00:00 INFO Generating payment form for order 1498. Notify URL: https://istinniy-put.com/wc-api/WC_Gateway_Paypal/
+2018-04-23T08:04:48+00:00 INFO PayPal Request Args for order 1498: cmd=_cart&business=istinniyput%40yandex.ru&no_note=1&currency_code=RUB&charset=utf-8&rm=2&upload=1&return=https%3A%2F%2Fistinniy-put.com%2Fcheckout%2Forder-received%2F1498%2F%3Fkey%3Dwc_order_5add697085446%26utm_nooverride%3D1&cancel_return=https%3A%2F%2Fistinniy-put.com%2Fcart%2F%3Fcancel_order%3Dtrue%26order%3Dwc_order_5add697085446%26order_id%3D1498%26redirect%26_wpnonce%3D931bd3fe1d&page_style=&image_url=&paymentaction=sale&bn=WooThemes_Cart&invoice=WC-1498&custom=%7B%22order_id%22%3A1498%2C%22order_key%22%3A%22wc_order_5add697085446%22%7D&notify_url=https%3A%2F%2Fistinniy-put.com%2Fwc-api%2FWC_Gateway_Paypal%2F&first_name=%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0&last_name=%D0%9B%D0%B8%D1%81%D0%B8%D0%BD%D0%B0&address1=7&address2=68&city=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&state=&zip=143390&country=RU&email=m.malash%40yndex.ru&night_phone_b=89105078578&no_shipping=1&tax_cart=0.00&item_name_1=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0+%D0%BD%D0%B0+1+%D0%B3%D0%BE%D0%B4&quantity_1=1&amount_1=2000&item_number_1=
+2018-05-20T09:49:32+00:00 INFO Generating payment form for order 1499. Notify URL: https://istinniy-put.com/wc-api/WC_Gateway_Paypal/
+2018-05-20T09:49:32+00:00 INFO PayPal Request Args for order 1499: cmd=_cart&business=istinniyput%40yandex.ru&no_note=1&currency_code=RUB&charset=utf-8&rm=2&upload=1&return=https%3A%2F%2Fistinniy-put.com%2Fcheckout%2Forder-received%2F1499%2F%3Fkey%3Dwc_order_5b011a7bd20d0%26utm_nooverride%3D1&cancel_return=https%3A%2F%2Fistinniy-put.com%2Fcart%2F%3Fcancel_order%3Dtrue%26order%3Dwc_order_5b011a7bd20d0%26order_id%3D1499%26redirect%26_wpnonce%3D74667c3035&page_style=&image_url=&paymentaction=sale&bn=WooThemes_Cart&invoice=WC-1499&custom=%7B%22order_id%22%3A1499%2C%22order_key%22%3A%22wc_order_5b011a7bd20d0%22%7D&notify_url=https%3A%2F%2Fistinniy-put.com%2Fwc-api%2FWC_Gateway_Paypal%2F&first_name=%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0&last_name=%D0%9B%D0%B8%D1%81%D0%B8%D0%BD%D0%B0&address1=7&address2=&city=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&state=&zip=143390&country=RU&email=m.malash%40yndex.ru&night_phone_b=89105078578&no_shipping=1&tax_cart=0.00&shipping_1=400.00&item_name_1=%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8&quantity_1=1&amount_1=888&item_number_1=&item_name_2=%D0%94%D0%B5%D1%82%D0%B8+%D1%81+%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0&quantity_2=1&amount_2=444&item_number_2=&item_name_3=%D0%A1%D1%83%D0%B4%D0%B1%D1%8B&quantity_3=1&amount_3=290&item_number_3=&item_name_4=%D0%93%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%BD%D0%BE%D0%B5+%D0%B8%D1%81%D1%86%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0&quantity_4=1&amount_4=50&item_number_4=&item_name_5=%D0%A8%D0%B0%D0%BC%D0%B1%D0%B0%D0%BB%D0%B0+-+%D0%94%D1%83%D1%85%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9+%D1%86%D0%B5%D0%BD%D1%82%D1%80+%D0%BC%D0%B8%D1%80%D0%B0.&quantity_5=1&amount_5=50&item_number_5=&item_name_6=%D0%A1%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BE+%D0%B7%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D1%8C%D1%86%D0%B5%2C+%D0%BE%D0%B3%D0%BD%D0%B5+%D0%B8+%D0%B2%D0%BE%D0%B4%D0%B8%D1%86%D0%B5.+%D0%97%D0%B0%D1%87%D0%B5%D0%BC+%D0%B2%D1%8B+%D0%BF%D1%80%D0%B8%D1%88%D0%BB%D0%B8+%D0%B2+%D1%8D%D1%82%D0%BE%D1%82+%D0%BC%D0%B8%D1%80%3F&quantity_6=1&amount_6=50&item_number_6=
+2018-05-20T09:50:59+00:00 INFO Checking IPN response is valid
+2018-05-20T09:51:01+00:00 INFO IPN Request: Array
+(
+    [body] => Array
+        (
+            [mc_gross] => 2172.00
+            [invoice] => WC-1499
+            [protection_eligibility] => Ineligible
+            [item_number1] => 
+            [tax] => 0.00
+            [item_number2] => 
+            [payer_id] => E8RGWHTE7V358
+            [item_number3] => 
+            [item_number4] => 
+            [payment_date] => 23:50:49 May 19, 2018 PDT
+            [item_number5] => 
+            [item_number6] => 
+            [payment_status] => Pending
+            [charset] => windows-1252
+            [mc_shipping] => 400.00
+            [first_name] => 
+            [notify_version] => 3.9
+            [custom] => {"order_id":1499,"order_key":"wc_order_5b011a7bd20d0"}
+            [payer_status] => unverified
+            [num_cart_items] => 6
+            [verify_sign] => ATqyAvHD31xTDLiFz96fSkkIm-GKAh3XyRs-mtQ9a9ZPAzBsNAAgDNP8
+            [payer_email] => m.malash@yndex.ru
+            [mc_shipping1] => 400.00
+            [txn_id] => 0H537648X0949512K
+            [payment_type] => instant
+            [last_name] => 
+            [item_name1] =>  
+            [receiver_email] => istinniyput@yandex.ru
+            [item_name2] =>   
+            [item_name3] => 
+            [item_name4] =>   
+            [item_name5] =>  -   .
+            [item_name6] =>   ,   .      ?
+            [quantity1] => 1
+            [quantity2] => 1
+            [pending_reason] => unilateral
+            [quantity3] => 1
+            [txn_type] => cart
+            [quantity4] => 1
+            [quantity5] => 1
+            [quantity6] => 1
+            [mc_gross_1] => 1288.00
+            [mc_currency] => RUB
+            [mc_gross_2] => 444.00
+            [mc_gross_3] => 290.00
+            [residence_country] => RU
+            [mc_gross_4] => 50.00
+            [mc_gross_5] => 50.00
+            [transaction_subject] => 
+            [mc_gross_6] => 50.00
+            [payment_gross] => 
+            [ipn_track_id] => 71caa70c725d4
+            [cmd] => _notify-validate
+        )
+
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/3.3.4
+)
+
+2018-05-20T09:51:01+00:00 INFO IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [server] => Apache
+                    [x-frame-options] => SAMEORIGIN
+                    [http_x_pp_az_locator] => dcg13.slc
+                    [content-encoding] => gzip
+                    [paypal-debug-id] => 82f33afc683f3
+                    [cache-control] => max-age=0, no-cache, no-store, must-revalidate
+                    [pragma] => no-cache
+                    [content-type] => text/html; charset=UTF-8
+                    [dc] => ccg11-origin-www-2.paypal.com
+                    [content-length] => 34
+                    [x-edgeconnect-midmile-rtt] => 73
+                    [x-edgeconnect-origin-mex-latency] => 1099
+                    [date] => Sun, 20 May 2018 06:51:01 GMT
+                    [vary] => Accept-Encoding
+                    [set-cookie] => Array
+                        (
+                            [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=Z_UzVGy3Y7NtaIV-XsO_EerzMxRFIqU9FkAN4CoNDoTNpiwbRPFZi9oz4cWuoivB4RWPKoQ2Hscx3YeYFQXOMrVIDr5fCdcSL6O3ito57FyGmssuTJPWMOoQ3WpKg-IQnxjX1YcuccBFeRh3-5_-52aHUFkc2KQDdIaTJZzr86wM_9v_oLsg9CLk2mLYFlFWsxp6vhwQf_wkq7Noy34IDij_H0ONnEddAkpyUJrfReCZjAfp_ig46Pz5PluOFbmJFNYNYV-uC5ntXn_WHT_JKEwmMiIoGkrqzdySTiTI1IseH8wwSlK5ub7crXEDjbZ0moyy31PVopm-NOonhJfNXISa2Utz6nRIoTU3Ymvhu4hlMBL-s3hbEv7UtlGERxs_r0HtTpSgNEcD_3ucWiU8s3PL1v8jRhpqjvp5V1zxdZVx81WRkvnNlVfQegm; domain=.paypal.com; path=/; Secure; HttpOnly
+                            [1] => cookie_check=yes; expires=Wed, 17-May-2028 06:51:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                            [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                            [3] => navlns=0.0; expires=Tue, 19-May-2020 06:51:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                            [4] => X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3558474075%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sun, 20 May 2018 07:21:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                            [5] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                            [6] => AKDC=ccg11-origin-www-2.paypal.com; expires=Sun, 20-May-2018 07:21:01 GMT; path=/; secure
+                            [7] => akavpau_ppsd=1526799661~id=e0a3df232af14daf969bcdc920a5bcd8; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+                        )
+
+                    [strict-transport-security] => max-age=63072000
+                )
+
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => Z_UzVGy3Y7NtaIV-XsO_EerzMxRFIqU9FkAN4CoNDoTNpiwbRPFZi9oz4cWuoivB4RWPKoQ2Hscx3YeYFQXOMrVIDr5fCdcSL6O3ito57FyGmssuTJPWMOoQ3WpKg-IQnxjX1YcuccBFeRh3-5_-52aHUFkc2KQDdIaTJZzr86wM_9v_oLsg9CLk2mLYFlFWsxp6vhwQf_wkq7Noy34IDij_H0ONnEddAkpyUJrfReCZjAfp_ig46Pz5PluOFbmJFNYNYV-uC5ntXn_WHT_JKEwmMiIoGkrqzdySTiTI1IseH8wwSlK5ub7crXEDjbZ0moyy31PVopm-NOonhJfNXISa2Utz6nRIoTU3Ymvhu4hlMBL-s3hbEv7UtlGERxs_r0HtTpSgNEcD_3ucWiU8s3PL1v8jRhpqjvp5V1zxdZVx81WRkvnNlVfQegm
+                    [expires] => 
+                    [path] => /
+                    [domain] => paypal.com
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1842159061
+                    [path] => /
+                    [domain] => paypal.com
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => paypal.com
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1589871061
+                    [path] => /
+                    [domain] => paypal.com
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => ccg11-origin-www-2.paypal.com
+                    [expires] => 1526800861
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => akavpau_ppsd
+                    [value] => 1526799661~id=e0a3df232af14daf969bcdc920a5bcd8
+                    [expires] => 
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => VERIFIED
+                    [raw] => HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Content-Encoding: gzip
+Paypal-Debug-Id: 82f33afc683f3
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+Content-Length: 34
+X-EdgeConnect-MidMile-RTT: 73
+X-EdgeConnect-Origin-MEX-Latency: 1099
+Date: Sun, 20 May 2018 06:51:01 GMT
+Connection: close
+Vary: Accept-Encoding
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Z_UzVGy3Y7NtaIV-XsO_EerzMxRFIqU9FkAN4CoNDoTNpiwbRPFZi9oz4cWuoivB4RWPKoQ2Hscx3YeYFQXOMrVIDr5fCdcSL6O3ito57FyGmssuTJPWMOoQ3WpKg-IQnxjX1YcuccBFeRh3-5_-52aHUFkc2KQDdIaTJZzr86wM_9v_oLsg9CLk2mLYFlFWsxp6vhwQf_wkq7Noy34IDij_H0ONnEddAkpyUJrfReCZjAfp_ig46Pz5PluOFbmJFNYNYV-uC5ntXn_WHT_JKEwmMiIoGkrqzdySTiTI1IseH8wwSlK5ub7crXEDjbZ0moyy31PVopm-NOonhJfNXISa2Utz6nRIoTU3Ymvhu4hlMBL-s3hbEv7UtlGERxs_r0HtTpSgNEcD_3ucWiU8s3PL1v8jRhpqjvp5V1zxdZVx81WRkvnNlVfQegm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 17-May-2028 06:51:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 19-May-2020 06:51:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3558474075%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sun, 20 May 2018 07:21:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Sun, 20-May-2018 07:21:01 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526799661~id=e0a3df232af14daf969bcdc920a5bcd8; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => Array
+                                        (
+                                            [0] => Apache
+                                        )
+
+                                    [x-frame-options] => Array
+                                        (
+                                            [0] => SAMEORIGIN
+                                        )
+
+                                    [http_x_pp_az_locator] => Array
+                                        (
+                                            [0] => dcg13.slc
+                                        )
+
+                                    [content-encoding] => Array
+                                        (
+                                            [0] => gzip
+                                        )
+
+                                    [paypal-debug-id] => Array
+                                        (
+                                            [0] => 82f33afc683f3
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, no-cache, no-store, must-revalidate
+                                        )
+
+                                    [pragma] => Array
+                                        (
+                                            [0] => no-cache
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/html; charset=UTF-8
+                                        )
+
+                                    [dc] => Array
+                                        (
+                                            [0] => ccg11-origin-www-2.paypal.com
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 34
+                                        )
+
+                                    [x-edgeconnect-midmile-rtt] => Array
+                                        (
+                                            [0] => 73
+                                        )
+
+                                    [x-edgeconnect-origin-mex-latency] => Array
+                                        (
+                                            [0] => 1099
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Sun, 20 May 2018 06:51:01 GMT
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                        )
+
+                                    [set-cookie] => Array
+                                        (
+                                            [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=Z_UzVGy3Y7NtaIV-XsO_EerzMxRFIqU9FkAN4CoNDoTNpiwbRPFZi9oz4cWuoivB4RWPKoQ2Hscx3YeYFQXOMrVIDr5fCdcSL6O3ito57FyGmssuTJPWMOoQ3WpKg-IQnxjX1YcuccBFeRh3-5_-52aHUFkc2KQDdIaTJZzr86wM_9v_oLsg9CLk2mLYFlFWsxp6vhwQf_wkq7Noy34IDij_H0ONnEddAkpyUJrfReCZjAfp_ig46Pz5PluOFbmJFNYNYV-uC5ntXn_WHT_JKEwmMiIoGkrqzdySTiTI1IseH8wwSlK5ub7crXEDjbZ0moyy31PVopm-NOonhJfNXISa2Utz6nRIoTU3Ymvhu4hlMBL-s3hbEv7UtlGERxs_r0HtTpSgNEcD_3ucWiU8s3PL1v8jRhpqjvp5V1zxdZVx81WRkvnNlVfQegm; domain=.paypal.com; path=/; Secure; HttpOnly
+                                            [1] => cookie_check=yes; expires=Wed, 17-May-2028 06:51:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                                            [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                                            [3] => navlns=0.0; expires=Tue, 19-May-2020 06:51:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                                            [4] => X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3558474075%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sun, 20 May 2018 07:21:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                                            [5] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                                            [6] => AKDC=ccg11-origin-www-2.paypal.com; expires=Sun, 20-May-2018 07:21:01 GMT; path=/; secure
+                                            [7] => akavpau_ppsd=1526799661~id=e0a3df232af14daf969bcdc920a5bcd8; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=63072000
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://www.paypal.com/cgi-bin/webscr
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                    [cwrClyrK4LoCV1fydGbAxiNL6iG] => Requests_Cookie Object
+                                        (
+                                            [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                                            [value] => Z_UzVGy3Y7NtaIV-XsO_EerzMxRFIqU9FkAN4CoNDoTNpiwbRPFZi9oz4cWuoivB4RWPKoQ2Hscx3YeYFQXOMrVIDr5fCdcSL6O3ito57FyGmssuTJPWMOoQ3WpKg-IQnxjX1YcuccBFeRh3-5_-52aHUFkc2KQDdIaTJZzr86wM_9v_oLsg9CLk2mLYFlFWsxp6vhwQf_wkq7Noy34IDij_H0ONnEddAkpyUJrfReCZjAfp_ig46Pz5PluOFbmJFNYNYV-uC5ntXn_WHT_JKEwmMiIoGkrqzdySTiTI1IseH8wwSlK5ub7crXEDjbZ0moyy31PVopm-NOonhJfNXISa2Utz6nRIoTU3Ymvhu4hlMBL-s3hbEv7UtlGERxs_r0HtTpSgNEcD_3ucWiU8s3PL1v8jRhpqjvp5V1zxdZVx81WRkvnNlVfQegm
+                                            [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                (
+                                                    [data:protected] => Array
+                                                        (
+                                                            [domain] => paypal.com
+                                                            [path] => /
+                                                            [secure] => 1
+                                                            [httponly] => 1
+                                                        )
+
+                                                )
+
+                                            [flags] => Array
+                                                (
+                                                    [creation] => 1526799061
+                                                    [last-access] => 1526799061
+                                                    [persistent] => 
+                                                    [host-only] => 
+                                                )
+
+                                            [reference_time] => 1526799061
+                                        )
+
+                                    [cookie_check] => Requests_Cookie Object
+                                        (
+                                            [name] => cookie_check
+                                            [value] => yes
+                                            [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                (
+                                                    [data:protected] => Array
+                                                        (
+                                                            [expires] => 1842159061
+                                                            [domain] => paypal.com
+                                                            [path] => /
+                                                            [secure] => 1
+                                                            [httponly] => 1
+                                                        )
+
+                                                )
+
+                                            [flags] => Array
+                                                (
+                                                    [creation] => 1526799061
+                                                    [last-access] => 1526799061
+                                                    [persistent] => 
+                                                    [host-only] => 
+                                                )
+
+                                            [reference_time] => 1526799061
+                                        )
+
+                                    [navcmd] => Requests_Cookie Object
+                                        (
+                                            [name] => navcmd
+                                            [value] => _notify-validate
+                                            [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                (
+                                                    [data:protected] => Array
+                                                        (
+                                                            [domain] => paypal.com
+                                                            [path] => /
+                                                            [secure] => 1
+                                                            [httponly] => 1
+                                                        )
+
+                                                )
+
+                                            [flags] => Array
+                                                (
+                                                    [creation] => 1526799061
+                                                    [last-access] => 1526799061
+                                                    [persistent] => 
+                                                    [host-only] => 
+                                                )
+
+                                            [reference_time] => 1526799061
+                                        )
+
+                                    [navlns] => Requests_Cookie Object
+                                        (
+                                            [name] => navlns
+                                            [value] => 0.0
+                                            [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                (
+                                                    [data:protected] => Array
+                                                        (
+                                                            [expires] => 1589871061
+                                                            [domain] => paypal.com
+                                                            [path] => /
+                                                            [secure] => 1
+                                                            [httponly] => 1
+                                                        )
+
+                                                )
+
+                                            [flags] => Array
+                                                (
+                                                    [creation] => 1526799061
+                                                    [last-access] => 1526799061
+                                                    [persistent] => 
+                                                    [host-only] => 
+                                                )
+
+                                            [reference_time] => 1526799061
+                                        )
+
+                                    [X-PP-SILOVER] => Requests_Cookie Object
+                                        (
+                                            [name] => X-PP-SILOVER
+                                            [value] => 
+                                            [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                (
+                                                    [data:protected] => Array
+                                                        (
+                                                            [expires] => 1
+                                                            [domain] => www.paypal.com
+                                                            [path] => /cgi-bin
+                                                        )
+
+                                                )
+
+                                            [flags] => Array
+                                                (
+                                                    [creation] => 1526799061
+                                                    [last-access] => 1526799061
+                                                    [persistent] => 
+                                                    [host-only] => 1
+                                                )
+
+                                            [reference_time] => 1526799061
+                                        )
+
+                                    [AKDC] => Requests_Cookie Object
+                                        (
+                                            [name] => AKDC
+                                            [value] => ccg11-origin-www-2.paypal.com
+                                            [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                (
+                                                    [data:protected] => Array
+                                                        (
+                                                            [expires] => 1526800861
+                                                            [path] => /
+                                                            [secure] => 1
+                                                            [domain] => www.paypal.com
+                                                        )
+
+                                                )
+
+                                            [flags] => Array
+                                                (
+                                                    [creation] => 1526799061
+                                                    [last-access] => 1526799061
+                                                    [persistent] => 
+                                                    [host-only] => 1
+                                                )
+
+                                            [reference_time] => 1526799061
+                                        )
+
+                                    [akavpau_ppsd] => Requests_Cookie Object
+                                        (
+                                            [name] => akavpau_ppsd
+                                            [value] => 1526799661~id=e0a3df232af14daf969bcdc920a5bcd8
+                                            [attributes] => Requests_Utility_CaseInsensitiveDictionary Object
+                                                (
+                                                    [data:protected] => Array
+                                                        (
+                                                            [domain] => www.paypal.com
+                                                            [path] => /
+                                                            [secure] => 1
+                                                            [httponly] => 1
+                                                        )
+
+                                                )
+
+                                            [flags] => Array
+                                                (
+                                                    [creation] => 1526799061
+                                                    [last-access] => 1526799061
+                                                    [persistent] => 
+                                                    [host-only] => 
+                                                )
+
+                                            [reference_time] => 1526799061
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+2018-05-20T09:51:01+00:00 INFO Received valid response from PayPal
+2018-05-20T09:51:01+00:00 INFO Found order #1499
+2018-05-20T09:51:01+00:00 INFO Payment status: pending
+2018-07-20T09:39:57+00:00 INFO Generating payment form for order 1691. Notify URL: https://istinniy-put.com/wc-api/WC_Gateway_Paypal/
+2018-07-20T09:39:57+00:00 INFO PayPal Request Args for order 1691: cmd=_cart&business=istinniyput%40yandex.ru&no_note=1&currency_code=RUB&charset=utf-8&rm=2&upload=1&return=https%3A%2F%2Fistinniy-put.com%2Fcheckout%2Forder-received%2F1691%2F%3Fkey%3Dwc_order_5b5183bd5f2d6%26utm_nooverride%3D1&cancel_return=https%3A%2F%2Fistinniy-put.com%2Fcart%2F%3Fcancel_order%3Dtrue%26order%3Dwc_order_5b5183bd5f2d6%26order_id%3D1691%26redirect%26_wpnonce%3D6bed3ce0bc&page_style=&image_url=&paymentaction=sale&bn=WooThemes_Cart&invoice=WC-1691&custom=%7B%22order_id%22%3A1691%2C%22order_key%22%3A%22wc_order_5b5183bd5f2d6%22%7D&notify_url=https%3A%2F%2Fistinniy-put.com%2Fwc-api%2FWC_Gateway_Paypal%2F&first_name=%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0&last_name=%D0%9A%D0%B0%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0&address1=%D0%B3.%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D1%83%D0%BB.+%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%2C+%D0%B4.116&address2=%D0%BA%D0%B2.140&city=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&state=&zip=105203&country=RU&email=a.karastelev%40mail.ru&night_phone_b=89031527883&no_shipping=1&tax_cart=0.00&shipping_1=400.00&item_name_1=%D0%A8%D0%B0%D0%BC%D0%B1%D0%B0%D0%BB%D0%B0+-+%D0%94%D1%83%D1%85%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9+%D1%86%D0%B5%D0%BD%D1%82%D1%80+%D0%BC%D0%B8%D1%80%D0%B0.&quantity_1=1&amount_1=50&item_number_1=&item_name_2=%D0%93%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%BD%D0%BE%D0%B5+%D0%B8%D1%81%D1%86%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0&quantity_2=1&amount_2=50&item_number_2=&item_name_3=%D0%9C%D1%8B+%D0%B8+%D0%BD%D0%B0%D1%88%D0%B8+%D0%B4%D0%B5%D1%82%D0%B8.+%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0+I&quantity_3=1&amount_3=30&item_number_3=&item_name_4=%D0%9C%D1%8B+%D0%B8+%D0%BD%D0%B0%D1%88%D0%B8+%D0%B4%D0%B5%D1%82%D0%B8.+%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0+II&quantity_4=1&amount_4=100&item_number_4=&item_name_5=%D0%A1%D1%83%D0%B4%D1%8C%D0%B1%D1%8B+-+%D0%9C%D1%8F%D0%B3%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D1%82&quantity_5=1&amount_5=290&item_number_5=&item_name_6=%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0+%D0%98%D1%81%D1%82%D0%B8%D0%BD%D1%8B.+%D0%9F%D1%80%D0%B0%D0%B2%D0%B4%D0%B0+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8%21+-+%D0%A2%D0%B2%D0%B5%D1%80%D0%B4%D1%8B%D0%B9+%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D1%82&quantity_6=2&amount_6=100&item_number_6=&item_name_7=%D0%9C%D0%BE%D0%B5+%D1%8D%D0%BC%D0%BF%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B8+%D0%BF%D1%80%D0%BE%D1%80%D0%BE%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8+%D0%BD%D0...&quantity_7=1&amount_7=100&item_number_7=

@@ -1,0 +1,374 @@
+# Translation of Plugins - Math Captcha - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Math Captcha - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-12 17:34:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Math Captcha - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.dfactory.eu/"
+msgstr "http://www.dfactory.eu/"
+
+#. Author of the plugin/theme
+msgid "dFactory"
+msgstr "dFactory"
+
+#. Description of the plugin/theme
+msgid "Math Captcha is a <strong>100% effective CAPTCHA for WordPress</strong> that integrates into login, registration, comments, Contact Form 7 and bbPress."
+msgstr "Math Captcha — это <strong>100% эффективная КАПЧА для WordPress</strong>, которая интегрируется во вход, регистрацию, комментарии, Contact Form 7 и bbPress."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.dfactory.eu/plugins/math-captcha/"
+msgstr "http://www.dfactory.eu/plugins/math-captcha/"
+
+#: wp-math-captcha.php:224
+msgid "Settings"
+msgstr "Параметры"
+
+#: wp-math-captcha.php:202
+msgid "Support"
+msgstr "Поддержка"
+
+#: wp-math-captcha.php:167
+msgid "Are you sure you want to reset these settings to defaults?"
+msgstr "Вы действительно хотите сбросить эти настройки до значений по умолчанию?"
+
+#: includes/integrations/contact-form-7.php:190
+msgid "Copy this code and paste it into the form left."
+msgstr "Скопируйте этот код и вставьте в форму слева."
+
+#: includes/integrations/contact-form-7.php:180
+#: includes/integrations/contact-form-7.php:184
+msgid "optional"
+msgstr "не обязательно"
+
+#: includes/integrations/contact-form-7.php:177
+msgid "Input field settings"
+msgstr "Настройки поля ввода"
+
+#: includes/integrations/contact-form-7.php:171
+msgid "Name"
+msgstr "Имя"
+
+#: includes/class-settings.php:387
+msgid "Settings restored to defaults."
+msgstr "Настройки восстановлены по умолчанию."
+
+#: includes/class-settings.php:350
+msgid "You need to check at least one group. Defaults settings of this option restored."
+msgstr "Хотя бы один способ отражения капчи должен быть выбран. Восстановлены настройки по умолчанию."
+
+#: includes/class-settings.php:331
+msgid "You need to check at least one mathematical operation. Defaults settings of this option restored."
+msgstr "Хотя бы две математические операции должны быть отмечены. Восстановлены параметры по умолчанию."
+
+#: includes/class-settings.php:287
+msgid "Delete settings on plugin deactivation"
+msgstr "Удалять настройки при деактивации плагина"
+
+#: includes/class-settings.php:285
+msgid "Delete settings on plugin deactivation."
+msgstr "Удалить настройки при деактивации плагина."
+
+#: includes/class-settings.php:271
+msgid "Enable this to prevent spambots from posting to Wordpress via a URL."
+msgstr "Включите это, чтобы спам-боты не делали записи в Wordpress через URL."
+
+#: includes/class-settings.php:269
+msgid "Block direct access to wp-comments-post.php."
+msgstr "Блокировать прямой доступ к wp-comments-post.php."
+
+#: includes/class-settings.php:255
+msgid "Enter the time (in seconds) a user has to enter captcha value."
+msgstr "Введите время (в секундах), в течение которого пользователь должен ввести капчу."
+
+#: includes/class-settings.php:239
+msgid "How to entitle field with captcha?"
+msgstr "Как озаглавить поле с капчей?"
+
+#: includes/class-settings.php:223
+msgid "Select how you'd like to display you captcha."
+msgstr "Выберите, как бы вы хотели отображать капчу."
+
+#: includes/class-settings.php:200
+msgid "Select which mathematical operations to use in your captcha."
+msgstr "Выберите, какие математические операции использовать в капче."
+
+#: includes/class-settings.php:177
+msgid "Would you like to hide captcha for logged in users?"
+msgstr "Хотите, чтобы капча скрывалась от зарегистрированных пользователей?"
+
+#: includes/class-settings.php:175
+msgid "Enable to hide captcha for logged in users."
+msgstr "Скрыть капчу для авторизованных пользователей."
+
+#: includes/class-settings.php:161
+msgid "Select where you'd like to use Math Captcha."
+msgstr "Выберите, где вы хотите использовать Math Captcha."
+
+#: includes/class-settings.php:140
+msgid "Deactivation"
+msgstr "Деактивация"
+
+#: includes/class-settings.php:139
+msgid "Block Direct Comments"
+msgstr "Блокировать прямые комментарии"
+
+#: includes/class-settings.php:138
+msgid "Captcha time"
+msgstr "Срок годности капчи"
+
+#: includes/class-settings.php:137
+msgid "Captcha field title"
+msgstr "Заголовок поля с капчей"
+
+#: includes/class-settings.php:136
+msgid "Display captcha as"
+msgstr "Показывать капчу как"
+
+#: includes/class-settings.php:135
+msgid "Mathematical operations"
+msgstr "Математические операции"
+
+#: includes/class-settings.php:134
+msgid "Hide for logged in users"
+msgstr "Скрыть для зарегистрированных пользователей"
+
+#: includes/class-settings.php:133
+msgid "Enable Math Captcha for"
+msgstr "Использовать Math Captcha для"
+
+#: includes/class-settings.php:132
+msgid "Math Captcha settings"
+msgstr "Параметры Math Captcha"
+
+#: includes/class-settings.php:114
+msgid "Reset to defaults"
+msgstr "Сбросить настройки по умолчанию"
+
+#: includes/class-settings.php:95
+msgid "WordPress plugins"
+msgstr "плагины WordPress"
+
+#: includes/class-settings.php:95
+msgid "Check out our other"
+msgstr "Взглянуть на другие наши"
+
+#: includes/class-settings.php:94
+msgid "plugin page"
+msgstr "страница плагина"
+
+#: includes/class-settings.php:94
+msgid "Blog about it & link to the"
+msgstr "Блог и"
+
+#: includes/class-settings.php:93
+msgid "on WordPress.org"
+msgstr "на WordPress.org"
+
+#: includes/class-settings.php:93
+msgid "Rate it 5"
+msgstr "Поставьте ему «пять»"
+
+#: includes/class-settings.php:86
+msgid "Do you like this plugin?"
+msgstr "Понравился этот плагин?"
+
+#: includes/class-settings.php:84
+msgid "Support forum"
+msgstr "Форум поддержки"
+
+#: includes/class-settings.php:84
+msgid "If you are having problems with this plugin, please talk about them in the"
+msgstr "Если у вас возникли проблемы с этим плагином, пожалуйста, сообщите о них на"
+
+#: includes/class-settings.php:83
+msgid "Need support?"
+msgstr "Нужна помощь?"
+
+#. #-#-#-#-#  tmp-wp-math-captcha.pot (Math Captcha 1.2.5.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-settings.php:62 includes/class-settings.php:63
+#: includes/class-settings.php:78 includes/class-settings.php:81
+#: includes/integrations/contact-form-7.php:159
+msgid "Math Captcha"
+msgstr "Math Captcha"
+
+#: includes/class-settings.php:51
+msgid "words"
+msgstr "слова"
+
+#: includes/class-settings.php:50
+msgid "numbers"
+msgstr "цифры"
+
+#: includes/class-settings.php:46
+msgid "division (&#247;)"
+msgstr "деление (&#247;)"
+
+#: includes/class-settings.php:45
+msgid "multiplication (&#215;)"
+msgstr "умножение (&#215;)"
+
+#: includes/class-settings.php:44
+msgid "subtraction (-)"
+msgstr "вычитание (&minus;)"
+
+#: includes/class-settings.php:43
+msgid "addition (+)"
+msgstr "сложение (+)"
+
+#: includes/class-settings.php:39
+msgid "contact form 7"
+msgstr "contact form 7"
+
+#: includes/class-settings.php:38
+msgid "bbpress"
+msgstr "bbpress"
+
+#: includes/class-settings.php:37
+msgid "comment form"
+msgstr "комментариев"
+
+#: includes/class-settings.php:36
+msgid "reset password form"
+msgstr "восстановления пароля"
+
+#: includes/class-settings.php:35
+msgid "registration form"
+msgstr "регистрации"
+
+#: includes/class-settings.php:34
+msgid "login form"
+msgstr "входа"
+
+#: includes/class-core.php:454
+msgid "ninety"
+msgstr "девяносто"
+
+#: includes/class-core.php:453
+msgid "eighty"
+msgstr "восемьдесят"
+
+#: includes/class-core.php:452
+msgid "seventy"
+msgstr "семьдесят"
+
+#: includes/class-core.php:451
+msgid "sixty"
+msgstr "шестьдесят"
+
+#: includes/class-core.php:450
+msgid "fifty"
+msgstr "пятьдесят"
+
+#: includes/class-core.php:449
+msgid "forty"
+msgstr "сорок"
+
+#: includes/class-core.php:448
+msgid "thirty"
+msgstr "тридцать"
+
+#: includes/class-core.php:447
+msgid "twenty"
+msgstr "двадцать"
+
+#: includes/class-core.php:446
+msgid "nineteen"
+msgstr "девятнадцать"
+
+#: includes/class-core.php:445
+msgid "eighteen"
+msgstr "восемнадцать"
+
+#: includes/class-core.php:444
+msgid "seventeen"
+msgstr "семнадцать"
+
+#: includes/class-core.php:443
+msgid "sixteen"
+msgstr "шестнадцать"
+
+#: includes/class-core.php:442
+msgid "fifteen"
+msgstr "пятнадцать"
+
+#: includes/class-core.php:441
+msgid "fourteen"
+msgstr "четырнадцать"
+
+#: includes/class-core.php:440
+msgid "thirteen"
+msgstr "тринадцать"
+
+#: includes/class-core.php:439
+msgid "twelve"
+msgstr "двенадцать"
+
+#: includes/class-core.php:438
+msgid "eleven"
+msgstr "одиннадцать"
+
+#: includes/class-core.php:437
+msgid "ten"
+msgstr "десять"
+
+#: includes/class-core.php:436
+msgid "nine"
+msgstr "девять"
+
+#: includes/class-core.php:435
+msgid "eight"
+msgstr "восемь"
+
+#: includes/class-core.php:434
+msgid "seven"
+msgstr "семь"
+
+#: includes/class-core.php:433
+msgid "six"
+msgstr "шесть"
+
+#: includes/class-core.php:432
+msgid "five"
+msgstr "пять"
+
+#: includes/class-core.php:431
+msgid "four"
+msgstr "четыре"
+
+#: includes/class-core.php:430
+msgid "three"
+msgstr "три"
+
+#: includes/class-core.php:429
+msgid "two"
+msgstr "два"
+
+#: includes/class-core.php:428
+msgid "one"
+msgstr "один"
+
+#: includes/class-core.php:41 includes/integrations/contact-form-7.php:128
+msgid "Captcha time expired."
+msgstr "Срок годности капчи истёк"
+
+#: includes/class-core.php:40 includes/integrations/contact-form-7.php:120
+msgid "Invalid captcha value."
+msgstr "Неверно введена капча"
+
+#: includes/class-core.php:39 includes/integrations/contact-form-7.php:124
+msgid "Please enter captcha value."
+msgstr "Пожалуйста, введите капчу."
+
+#: includes/class-core.php:39 includes/class-core.php:40
+#: includes/class-core.php:41
+msgid "ERROR"
+msgstr "ОШИБКА"

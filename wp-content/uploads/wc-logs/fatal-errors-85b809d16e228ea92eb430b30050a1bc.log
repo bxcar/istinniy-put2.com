@@ -1,0 +1,48 @@
+2017-12-14T16:32:09+00:00 CRITICAL Call to a member function get() on array
+
+2017-12-14T16:32:20+00:00 CRITICAL Call to a member function get() on array
+
+2018-02-07T10:41:04+00:00 CRITICAL Class 'JLayoutHelper' not found
+
+2018-02-21T21:03:46+00:00 CRITICAL Using $this when not in object context
+
+2018-02-21T21:03:51+00:00 CRITICAL Using $this when not in object context
+
+2018-04-06T14:17:28+00:00 CRITICAL Call to undefined function get_the_field()
+
+2018-04-10T20:13:46+00:00 CRITICAL Call to undefined function get_feild()
+
+2018-04-10T20:14:37+00:00 CRITICAL Call to undefined function get_feild()
+
+2018-04-10T20:15:04+00:00 CRITICAL Call to undefined function get_feild()
+
+2018-06-14T12:51:47+00:00 CRITICAL Call to a member function get_price() on null
+
+2018-06-14T12:54:30+00:00 CRITICAL Call to undefined method WC_Product_Variable::price()
+
+2018-06-14T12:55:32+00:00 CRITICAL Call to undefined method WC_Product_Variable::price()
+
+2018-06-21T13:55:49+00:00 CRITICAL Call to a member function get_average_rating() on boolean
+
+2018-06-25T08:40:31+00:00 CRITICAL Call to a member function single_add_to_cart_text() on null
+
+2018-06-25T08:41:53+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_post_thumbnail_url()
+
+2018-06-25T09:21:17+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_the_post_thumbnail_url()
+
+2018-06-25T09:39:09+00:00 CRITICAL Call to a member function single_add_to_cart_text() on null
+
+2018-06-27T10:36:51+00:00 CRITICAL Call to undefined method WC_Product_Variable::get_field()
+
+2018-07-11T15:36:02+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_variation_attributes()
+
+2018-07-11T22:41:51+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_variation_attributes()
+
+2018-07-17T12:17:14+00:00 CRITICAL Using $this when not in object context
+
+2018-07-17T12:17:34+00:00 CRITICAL Using $this when not in object context
+
+2018-07-17T12:21:58+00:00 CRITICAL Call to undefined function get_variation_price()
+
+2018-07-17T13:01:53+00:00 CRITICAL Cannot use object of type WP_Term as array
+

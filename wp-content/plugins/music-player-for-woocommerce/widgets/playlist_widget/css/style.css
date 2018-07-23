@@ -1,0 +1,5 @@
+.wcmp-widget-playlist{ list-style: none; }
+.controls-track .wcmp-widget-playlist-item{ display: table-row; }
+.wcmp-widget-playlist-item .mejs-controls{ top: 0; }
+.wcmp-odd-product{ background-color:#FAFAFA; border-top: 1px solid #DADADA; border-bottom: 1px solid #DADADA;}
+.wcmp-current-product{ background-color:#FFFFD7;}

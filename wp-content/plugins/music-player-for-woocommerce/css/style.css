@@ -1,0 +1,24 @@
+.wcmp-player{ width:100% !important; }
+.wcmp-player.mejs-wmp:not(.track),
+.wcmp-player.mejs-ted:not(.track){min-height:65px !important;}
+.wcmp-player.mejs-container{background: transparent !important;}
+.wcmp-player.track{width:25px !important;position:relative;float:left;margin-right:5px;overflow:hidden;}
+.wcmp-player.track.mejs-ted{width:49px !important;height:28px !important;}
+.wcmp-player.track.mejs-ted .mejs-controls{height:28px !important; background:transparent !important; }
+.wcmp-player.track.mejs-wmp .mejs-playpause-button,
+.wcmp-player.track.mejs-ted .mejs-playpause-button{top:0 !important;left:0 !important; margin: 0 !important; }
+
+.wcmp-player.track.mejs-wmp{width:40px !important;height:40px !important;}
+.wcmp-player.track.mejs-wmp .mejs-controls{height:40px !important; width:40px !important; background:transparent !important; }
+
+.wcmp-player-list{ width:100%; border:0;}
+.wcmp-player-list td{ border:0;padding:5px;}
+.wcmp-player-list table{width:100%;margin:0;}
+.wcmp-player-list table td{border:0;}
+.wcmp-odd-even td,
+.wcmp-odd-even td{paddin:5px;vertical-align:middle;}
+.wcmp-odd-row td{ background-color:#FAFAFA; border-top: 1px solid #DADADA; border-bottom: 1px solid #DADADA;}
+.wcmp-column-player-title{ /* width:100%; */ vertical-align:middle;}
+.wcmp-column-player-mejs-classic{width:30px; min-height:30px;}
+.wcmp-column-player-mejs-ted{width:54px; min-height:28px;}
+.wcmp-column-player-mejs-wmp{width:45px; min-height:40px;}

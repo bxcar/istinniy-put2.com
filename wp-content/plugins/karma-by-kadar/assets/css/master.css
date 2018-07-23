@@ -1,0 +1,441 @@
+/*
+ * Karma Music Player by Kadar - Style
+ * http://kadarclaudiu.com/karma
+ *
+ * Author: Kadar Claudiu
+ * Version: 1.0.1
+ * Date: 6th December 2017
+ */
+.karma-by-kadar__simple-player {
+  padding-left: 53px;
+  min-height: 46px;
+  margin-bottom: 20px;
+  position: relative; }
+  .karma-by-kadar__simple-player:after, .karma-by-kadar__simple-player:before {
+    content: '';
+    display: table; }
+  .karma-by-kadar__simple-player:after {
+    clear: both; }
+  .karma-by-kadar__simple-player__play, .karma-by-kadar__simple-player__pause {
+    cursor: pointer;
+    display: block;
+    width: 46px;
+    height: 46px;
+    cursor: pointer;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 0; }
+    .karma-by-kadar__simple-player__play i, .karma-by-kadar__simple-player__pause i {
+      font-size: 54px;
+      display: block;
+      position: relative;
+      left: -4px;
+      top: -4px;
+      width: 52px;
+      height: 52px;
+      color: #ff9800; }
+    .karma-by-kadar__simple-player__play:after, .karma-by-kadar__simple-player__pause:after {
+      content: '';
+      position: absolute;
+      border-radius: 50%;
+      top: 1px;
+      left: 1px;
+      right: 1px;
+      bottom: 1px;
+      background: #fff;
+      display: block;
+      z-index: -1;
+      -webkit-box-shadow: 0 4px 5px rgba(0, 0, 0, 0.09), 0 1px 10px rgba(0, 0, 0, 0.05), 0 2px 4px rgba(0, 0, 0, 0.2);
+      box-shadow: 0 4px 5px rgba(0, 0, 0, 0.09), 0 1px 10px rgba(0, 0, 0, 0.05), 0 2px 4px rgba(0, 0, 0, 0.2);
+      -webkit-transition-delay: 0;
+      -o-transition-delay: 0;
+      transition-delay: 0;
+      -webkit-transition-property: all;
+      -webkit-transition-duration: 0.1s;
+      -webkit-transition-timing-function: ease-in-out;
+      -o-transition-property: all;
+      transition-property: all;
+      -o-transition-duration: 0.1s;
+      transition-duration: 0.1s;
+      -o-transition-timing-function: ease-in-out;
+      transition-timing-function: ease-in-out; }
+    .karma-by-kadar__simple-player__play:active:after, .karma-by-kadar__simple-player__pause:active:after {
+      -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15); }
+  .karma-by-kadar__simple-player__seekbar {
+    display: block;
+    position: relative;
+    height: 22px;
+    padding: 9px 0;
+    cursor: pointer;
+    width: 100%;
+    z-index: 0; }
+    .karma-by-kadar__simple-player__seekbar__bg {
+      position: absolute;
+      left: 0;
+      top: 9px;
+      right: 0;
+      bottom: 9px;
+      z-index: -1;
+      background: rgba(0, 0, 0, 0.1); }
+    .karma-by-kadar__simple-player__seekbar .ui-slider-range {
+      display: block;
+      height: 4px;
+      background: #ff9800; }
+    .karma-by-kadar__simple-player__seekbar .ui-slider-handle {
+      -webkit-box-shadow: none;
+      box-shadow: none;
+      position: absolute;
+      margin-left: -7px;
+      border-radius: 50%;
+      display: block;
+      top: 4px;
+      width: 14px;
+      height: 14px;
+      outline: none;
+      background: #ff9800;
+      -webkit-transition-delay: 0;
+      -o-transition-delay: 0;
+      transition-delay: 0;
+      -webkit-transition-property: all;
+      -webkit-transition-duration: 0.2s;
+      -webkit-transition-timing-function: ease-in-out;
+      -o-transition-property: all;
+      transition-property: all;
+      -o-transition-duration: 0.2s;
+      transition-duration: 0.2s;
+      -o-transition-timing-function: ease-in-out;
+      transition-timing-function: ease-in-out;
+      -webkit-transition-property: width, height, top, margin;
+      -o-transition-property: width, height, top, margin;
+      transition-property: width, height, top, margin; }
+      .karma-by-kadar__simple-player__seekbar .ui-slider-handle.ui-state-active {
+        width: 22px;
+        height: 22px;
+        margin-left: -11px;
+        top: 0; }
+      .karma-by-kadar__simple-player__seekbar .ui-slider-handle.ui-state-focus, .karma-by-kadar__simple-player__seekbar .ui-slider-handle:hover {
+        -webkit-box-shadow: none;
+        box-shadow: none; }
+  .karma-by-kadar__simple-player__volume-handler-container {
+    position: relative;
+    padding-right: 26px;
+    -webkit-transition-delay: 0;
+    -o-transition-delay: 0;
+    transition-delay: 0;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 0.2s;
+    -webkit-transition-timing-function: ease-in-out;
+    -o-transition-property: all;
+    transition-property: all;
+    -o-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+    -o-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out; }
+  .karma-by-kadar__simple-player__middle {
+    display: block;
+    width: 100%;
+    padding: 0 14px 0 7px; }
+    .karma-by-kadar__simple-player__middle:after, .karma-by-kadar__simple-player__middle:before {
+      content: '';
+      display: table; }
+    .karma-by-kadar__simple-player__middle:after {
+      clear: both; }
+  .karma-by-kadar__simple-player__title {
+    position: relative;
+    cursor: pointer;
+    padding: 0 7px;
+    padding-top: 2px;
+    width: calc(100% - 26px); }
+    .karma-by-kadar__simple-player__title__the-title {
+      padding: 0;
+      margin: 0;
+      font-size: 13px;
+      font-weight: 400;
+      color: #000;
+      display: block;
+      line-height: 13px;
+      white-space: nowrap;
+      overflow: hidden;
+      -o-text-overflow: ellipsis;
+      text-overflow: ellipsis;
+      font-family: "Roboto", Helvetica, Arial, sans-serif; }
+    .karma-by-kadar__simple-player__title__tooltip {
+      cursor: default;
+      position: absolute;
+      z-index: 1;
+      left: -10px;
+      bottom: 100%;
+      border-radius: 4px;
+      background: rgba(0, 0, 0, 0.6);
+      color: #fff;
+      padding: 7px 10px;
+      font-size: 12px;
+      line-height: 15px;
+      display: block;
+      margin-bottom: 10px;
+      opacity: 0;
+      max-width: calc(100% + 20px);
+      visibility: hidden;
+      margin-bottom: 5px;
+      font-family: "Roboto", Helvetica, Arial, sans-serif;
+      -webkit-transition-delay: 0;
+      -o-transition-delay: 0;
+      transition-delay: 0;
+      -webkit-transition-property: all;
+      -webkit-transition-duration: 0.2s;
+      -webkit-transition-timing-function: ease-in-out;
+      -o-transition-property: all;
+      transition-property: all;
+      -o-transition-duration: 0.2s;
+      transition-duration: 0.2s;
+      -o-transition-timing-function: ease-in-out;
+      transition-timing-function: ease-in-out; }
+      .karma-by-kadar__simple-player__title__tooltip:after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 4px 4px 0 4px;
+        border-color: rgba(0, 0, 0, 0.6) transparent transparent transparent;
+        top: 100%;
+        left: 25px; }
+    .karma-by-kadar__simple-player__title.active .karma-by-kadar__simple-player__title__tooltip {
+      margin-bottom: 10px;
+      opacity: 1;
+      visibility: visible; }
+  .karma-by-kadar__simple-player__current-time, .karma-by-kadar__simple-player__duration {
+    font-size: 10px;
+    font-weight: 400;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    color: #000;
+    display: block;
+    line-height: 10px; }
+  .karma-by-kadar__simple-player__current-time {
+    float: left; }
+  .karma-by-kadar__simple-player__duration {
+    float: right; }
+  .karma-by-kadar__simple-player__right {
+    position: absolute;
+    right: 0;
+    top: 0; }
+  .karma-by-kadar__simple-player__volume {
+    position: relative;
+    z-index: 0;
+    top: -2px;
+    width: 26px;
+    height: 26px;
+    padding-right: 26px;
+    -webkit-transition-delay: 0;
+    -o-transition-delay: 0;
+    transition-delay: 0;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 0.2s;
+    -webkit-transition-timing-function: ease-in-out;
+    -o-transition-property: all;
+    transition-property: all;
+    -o-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+    -o-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out; }
+    .karma-by-kadar__simple-player__volume__seekbar {
+      display: block;
+      position: relative;
+      height: 22px;
+      padding: 10px 0;
+      cursor: pointer;
+      width: 70px;
+      float: right;
+      z-index: 0; }
+      .karma-by-kadar__simple-player__volume__seekbar__bg {
+        position: absolute;
+        left: 0;
+        top: 10px;
+        right: 0;
+        bottom: 10px;
+        background: rgba(0, 0, 0, 0.1);
+        z-index: -1; }
+      .karma-by-kadar__simple-player__volume__seekbar .ui-slider-range {
+        display: block;
+        height: 2px;
+        background: #ff9800; }
+      .karma-by-kadar__simple-player__volume__seekbar .ui-slider-handle {
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        position: absolute;
+        margin-left: -6px;
+        border-radius: 50%;
+        display: block;
+        top: 5px;
+        width: 12px;
+        height: 12px;
+        cursor: pointer;
+        outline: none;
+        background: #ff9800;
+        -webkit-transition-delay: 0;
+        -o-transition-delay: 0;
+        transition-delay: 0;
+        -webkit-transition-property: all;
+        -webkit-transition-duration: 0.2s;
+        -webkit-transition-timing-function: ease-in-out;
+        -o-transition-property: all;
+        transition-property: all;
+        -o-transition-duration: 0.2s;
+        transition-duration: 0.2s;
+        -o-transition-timing-function: ease-in-out;
+        transition-timing-function: ease-in-out;
+        -webkit-transition-property: width, height, top, margin;
+        -o-transition-property: width, height, top, margin;
+        transition-property: width, height, top, margin; }
+        .karma-by-kadar__simple-player__volume__seekbar .ui-slider-handle.ui-state-active {
+          width: 18px;
+          height: 18px;
+          margin-left: -9px;
+          top: 2px; }
+        .karma-by-kadar__simple-player__volume__seekbar .ui-slider-handle.ui-state-focus, .karma-by-kadar__simple-player__volume__seekbar .ui-slider-handle:hover {
+          -webkit-box-shadow: none;
+          box-shadow: none; }
+    .karma-by-kadar__simple-player__volume__bar {
+      width: 0;
+      padding: 2px 0;
+      padding-right: 0;
+      overflow: hidden;
+      opacity: 0;
+      visibility: hidden;
+      -webkist-transition: width 0.2s ease-in-out, opacity 0s ease-in-out;
+      -moz-transition: width 0.2s ease-in-out, opacity 0s ease-in-out;
+      -o-transition: width 0.2s ease-in-out, opacity 0s ease-in-out;
+      -webkit-transition: width 0.2s ease-in-out, opacity 0s ease-in-out;
+      transition: width 0.2s ease-in-out, opacity 0s ease-in-out; }
+      .karma-by-kadar__simple-player__volume__bar > i {
+        float: right;
+        margin-right: 5px;
+        font-size: 18px;
+        height: 22px;
+        width: 22px;
+        padding: 2px 0; }
+      .karma-by-kadar__simple-player__volume__bar:after, .karma-by-kadar__simple-player__volume__bar:before {
+        content: '';
+        display: table; }
+      .karma-by-kadar__simple-player__volume__bar:after {
+        clear: both; }
+    .karma-by-kadar__simple-player__volume:after, .karma-by-kadar__simple-player__volume:before {
+      content: '';
+      display: table; }
+    .karma-by-kadar__simple-player__volume:after {
+      clear: both; }
+  .karma-by-kadar__simple-player__mute, .karma-by-kadar__simple-player__unmute {
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    border-radius: 50%;
+    width: 26px;
+    height: 26px;
+    background: #ff9800;
+    -webkit-box-shadow: 0 3px 4px rgba(0, 0, 0, 0.07), 0 1px 6px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.07), 0 1px 6px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.1);
+    -webkit-transition-delay: 0;
+    -o-transition-delay: 0;
+    transition-delay: 0;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 0.1s;
+    -webkit-transition-timing-function: ease-in-out;
+    -o-transition-property: all;
+    transition-property: all;
+    -o-transition-duration: 0.1s;
+    transition-duration: 0.1s;
+    -o-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out; }
+    .karma-by-kadar__simple-player__mute i, .karma-by-kadar__simple-player__unmute i {
+      color: #fff;
+      font-size: 16px;
+      text-align: center;
+      line-height: 26px;
+      display: block;
+      width: 26px;
+      height: 26px; }
+    .karma-by-kadar__simple-player__mute:active, .karma-by-kadar__simple-player__unmute:active {
+      -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); }
+  .karma-by-kadar__simple-player__unmute {
+    display: none; }
+  .karma-by-kadar__simple-player.jp-state-muted .karma-by-kadar__simple-player__mute {
+    display: none; }
+  .karma-by-kadar__simple-player.jp-state-muted .karma-by-kadar__simple-player__unmute {
+    display: block; }
+  .karma-by-kadar__simple-player.is-mobile-device .karma-by-kadar__simple-player__volume-handler-container {
+    padding-right: 0; }
+
+@media (min-width: 1024px) {
+  .karma-by-kadar__simple-player.volume-is-opened .karma-by-kadar__simple-player__volume-handler-container {
+    padding-right: 145px; }
+  .karma-by-kadar__simple-player.volume-is-opened .karma-by-kadar__simple-player__volume {
+    width: 145px; }
+    .karma-by-kadar__simple-player.volume-is-opened .karma-by-kadar__simple-player__volume__bar {
+      width: 115px;
+      padding-right: 9px;
+      opacity: 1;
+      visibility: visible;
+      -webkist-transition: width 0.2s ease-in-out, opacity 0.2s 0.2s ease-in-out;
+      -moz-transition: width 0.2s ease-in-out, opacity 0.2s 0.2s ease-in-out;
+      -o-transition: width 0.2s ease-in-out, opacity 0.2s 0.2s ease-in-out;
+      -webkit-transition: width 0.2s ease-in-out, opacity 0.2s 0.2s ease-in-out;
+      transition: width 0.2s ease-in-out, opacity 0.2s 0.2s ease-in-out; } }
+
+.karma-by-kadar__simple-player--rtl {
+  direction: rtl;
+  padding-left: 0;
+  padding-right: 53px; }
+  .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__play, .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__pause {
+    left: auto;
+    right: 0; }
+    .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__play i, .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__pause i {
+      left: auto;
+      right: -4px; }
+  .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__volume-handler-container {
+    padding-right: 0;
+    padding-left: 26px; }
+  .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__middle {
+    float: right;
+    padding-left: 14px;
+    padding-right: 7px; }
+  .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__title__tooltip {
+    left: auto;
+    right: -10px; }
+    .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__title__tooltip:after {
+      left: auto;
+      right: 25px; }
+  .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__right {
+    right: auto;
+    left: 0; }
+  .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__volume {
+    padding-right: 0;
+    padding-left: 26px; }
+    .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__volume__seekbar {
+      float: left; }
+    .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__volume__bar > i {
+      float: left;
+      margin-right: 0;
+      margin-left: 5px; }
+  .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__mute, .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__unmute {
+    right: auto;
+    left: 0; }
+  .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__current-time {
+    float: right; }
+  .karma-by-kadar__simple-player--rtl .karma-by-kadar__simple-player__duration {
+    float: left; }
+  .karma-by-kadar__simple-player--rtl .material-icons {
+    direction: rtl; }
+
+@media (min-width: 1024px) {
+  .karma-by-kadar__simple-player--rtl.volume-is-opened .karma-by-kadar__simple-player__volume-handler-container {
+    padding-right: 0;
+    padding-left: 145px; }
+  .karma-by-kadar__simple-player--rtl.volume-is-opened .karma-by-kadar__simple-player__middle {
+    padding-left: 7px; }
+  .karma-by-kadar__simple-player--rtl.volume-is-opened .karma-by-kadar__simple-player__volume__bar {
+    padding-right: 0;
+    padding-left: 9px; } }

@@ -1,0 +1,105 @@
+// karma-by-kadar--rtl.scss
+// by Kadar Claudiu
+// http://kadarclaudiu.com/
+
+.karma-by-kadar {
+	&__simple-player {
+		&--rtl {
+			direction: rtl;
+			padding-left: 0;
+				padding-right: 53px;
+			.karma-by-kadar {
+				&__simple-player {
+					&__play,
+					&__pause {
+						left: auto;
+						right: 0;
+						i {
+							left: auto;
+							right: -4px;
+						}
+					}
+					&__volume-handler-container {
+						padding-right: 0;
+						padding-left: 26px;
+					}
+					&__middle {
+						float: right;
+						padding-left: 14px;
+						padding-right: 7px;
+					}
+					&__title {
+						&__tooltip {
+							left: auto;
+							right: -10px;
+							&:after {
+								left: auto;
+								right: 25px;
+							}
+						}
+					}
+					&__right {
+						right: auto;
+						left: 0;
+					}
+					&__volume {
+						padding-right: 0;
+						padding-left: 26px;
+						&__seekbar {
+							float: left;
+						}
+						&__bar {
+							> i {
+								float: left;
+								margin-right: 0;
+								margin-left: 5px;
+							}
+						}
+					}
+					&__mute,
+					&__unmute {
+						right: auto;
+						left: 0;
+					}
+					&__current-time {
+						float: right;
+					}
+					&__duration {
+						float: left;
+					}
+				}
+			}
+			.material-icons {
+				direction: rtl;
+			}
+		}
+	}
+}
+
+@media (min-width: 1024px) {
+	.karma-by-kadar {
+		&__simple-player {
+			&--rtl {
+				&.volume-is-opened {
+					.karma-by-kadar {
+						&__simple-player {
+							&__volume-handler-container {
+								padding-right: 0;
+								padding-left: 145px;
+							}
+							&__middle {
+								padding-left: 7px;
+							}
+							&__volume {
+								&__bar {
+									padding-right: 0;
+									padding-left: 9px;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

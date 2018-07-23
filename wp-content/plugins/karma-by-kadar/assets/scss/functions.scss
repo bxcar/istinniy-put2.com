@@ -1,0 +1,98 @@
+// functions.scss
+// by Kadar Claudiu
+// http://kadarclaudiu.com/
+
+// Here is all functions that we need.
+
+@mixin transition-framework($time:0.2s,$delay-timing:0) {
+	-webkit-transition-delay: $delay-timing;
+	transition-delay: $delay-timing;
+	-webkit-transition-property: all;
+	-webkit-transition-duration: $time;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-property: all;
+	transition-duration: $time;
+	transition-timing-function: ease-in-out;
+}
+
+@mixin transition-object($object: all) {
+	-webkit-transition-property: $object;
+	transition-property: $object;
+}
+
+@mixin transition-cubic($time:1s) {
+	-webkit-transition:all $time cubic-bezier(.23,-0.19,.74,1.17);
+	-moz-transition:all $time cubic-bezier(.23,-0.19,.74,1.17);
+	-o-transition:all $time cubic-bezier(.23,-0.19,.74,1.17);
+	-ms-transition:all $time cubic-bezier(.23,-0.19,.74,1.17);
+	transition:all $time cubic-bezier(.23,-0.19,.74,1.17);
+}
+
+@mixin translate($translateY, $translateX) {
+	-webkit-transform: translate($translateY , $translateX);
+	-moz-transform: translate($translateY , $translateX);
+	-o-transform: translate($translateY , $translateX);
+	-ms-transform: translate($translateY , $translateX);
+	transform: translate($translateY , $translateX);
+}
+
+@mixin translateY($translateY) {
+	-webkit-transform: translateY($translateY);
+	-moz-transform: translateY($translateY);
+	-o-transform: translateY($translateY);
+	-ms-transform: translateY($translateY);
+	transform: translateY($translateY);
+}
+
+@mixin translateZ($translateZ) {
+	-webkit-transform: translateZ($translateZ);
+	-moz-transform: translateZ($translateZ);
+	-o-transform: translateZ($translateZ);
+	-ms-transform: translateZ($translateZ);
+	transform: translateZ($translateZ);
+}
+
+@mixin origin($origin: 0% 0%) {
+	transform-origin: $origin;
+	-ms-transform-origin: $origin;
+	-webkit-transform-origin: $origin;
+}
+
+@mixin rotate($deg) {
+	-webkit-transform: rotate($deg);
+	transform: rotate($deg);
+}
+
+@mixin rotateY($deg) {
+	-webkit-transform: rotateY($deg);
+	transform: rotateY($deg);
+}
+
+@mixin rotateX($deg) {
+	-webkit-transform: rotateX($deg);
+	transform: rotateX($deg);
+}
+
+@mixin translateX($translateX) {
+	-webkit-transform: translateX($translateX);
+	-moz-transform: translateX($translateX);
+	-o-transform: translateX($translateX);
+	-ms-transform: translateX($translateX);
+	transform: translateX($translateX);
+}
+
+@mixin skewY($value){
+	-webkit-transform: skewY($value);
+	-moz-transform: skewY($value);
+	-o-transform: skewY($value);
+	-ms-transform: skewY($value);
+	transform: skewY($value);
+}
+
+@mixin scale($scale-val) {
+	-webkit-transform: scale($scale-val);
+	-moz-transform: scale($scale-val);
+	-o-transform: scale($scale-val);
+	-ms-transform: scale($scale-val);
+	transform: scale($scale-val);
+}
