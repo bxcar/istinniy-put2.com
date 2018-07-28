@@ -98,8 +98,10 @@
 	                        <li> 
 	                            <div class="wpforo-last-topic-title <?php wpforo_unread_topic($topic['topicid']) ?>" title="<?php $icon_title = WPF()->tpl->icon('topic', $topic, false, 'title'); if( $icon_title ) echo esc_html($icon_title) ?>"><i class="fas <?php WPF()->tpl->icon('topic', $topic); ?> wpfcl-0"></i> &nbsp;
 	                            <a href="<?php echo esc_url($last_post['url']) ?>"><?php echo esc_html(wpforo_text($topic['title'], WPF()->forum->options['layout_extended_intro_topics_length'], false)) ?></a></div>
-	                            <div class="wpforo-last-topic-user" title="<?php echo esc_attr($member['display_name']) ?>"><?php wpforo_member_link($member, 'by', 9); ?></div>
-	                            <div class="wpforo-last-topic-date"><?php wpforo_date($topic['modified']); ?></div> 
+	                            <div class="name-and-time">
+                                    <div class="wpforo-last-topic-user--modified" title="<?php echo esc_attr($member['display_name']) ?>"><?php wpforo_member_link($member, '', 9); ?></div>
+                                    <div class="wpforo-last-topic-date--modified"><?php wpforo_date($topic['modified']); ?></div>
+                                </div>
 	                            <br class="wpf-clear" />
 	                        </li>
 						<?php endforeach; ?>

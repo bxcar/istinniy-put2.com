@@ -419,13 +419,13 @@
       outline: none;
     background: #436357;
     }
-    .navbar-btn:hover,.active {
+    .navbar-btn:hover,.navbar-btn.active {
         color: white;
        outline: none;
     background: #436357;
     }
         .btn-default:active,
-    .btn-default:active:focus, .active
+    .btn-default:active:focus, .btn-default.active
     {
         outline: none;
         position: relative;

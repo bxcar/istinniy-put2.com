@@ -26,11 +26,17 @@
 	            <?php endif ?>
                 <div class="author-data">
                     <div class="author-name"><span><?php WPF()->member->show_online_indicator($member['userid']) ?></span>&nbsp;<?php wpforo_member_link($member); ?></div>
-                    <?php wpforo_member_nicename($member, '@'); ?>
-                    <div class="author-title"><?php wpforo_member_title($member) ?></div>
-                    <?php wpforo_member_badge($member) ?>
-                    <div class="author-joined"><?php wpforo_phrase('Joined') ?>:<?php wpforo_date($member['user_registered']); ?></div>
-                    <div class="author-posts"><?php wpforo_phrase('Posts') ?>: <?php echo intval($member['posts']) ?></div>
+                    <div class="nicename-and-rating">
+                        <?php wpforo_member_nicename($member, '@'); ?>
+                        <?php wpforo_member_badge($member) ?>
+                    </div>
+                    <div class="author-title"><span>Статус:</span><?php wpforo_member_title($member) ?></div>
+<!--                    <div class="author-joined">--><?php //wpforo_phrase('Joined') ?><!--:--><?php //wpforo_date($member['user_registered']); ?><!--</div>-->
+                    <?php
+                    $date_reg=date_create(substr($member['user_registered'], 0, 10));
+                    ?>
+                    <div class="author-joined"><span>Регистрация:</span><?= date_format($date_reg,"d.m.y"); ?></div>
+                    <div class="author-posts"><span><?php wpforo_phrase('Posts') ?>:</span><?php echo intval($member['posts']) ?></div>
 	            </div>
                 <div class="wpf-clear"></div>
                 <div id="wpforo-memberinfo-toggle-<?php echo intval($post['postid']) ?>" class="wpforo-membertoggle" title="<?php wpforo_phrase('More') ?>">
@@ -56,7 +62,7 @@
 	            	<?php if($member['signature']): ?><div class="wpforo-post-signature"><?php wpforo_signature( $member ) ?></div><?php endif; ?>
                 <?php endif; ?>
 	        </div><!-- right -->
-	        <br class="wpf-clear" />
+<!--	        <br class="wpf-clear" />-->
 	        <div class="bottom">
 				<div class="bleft">
 					<?php echo WPF()->tpl->likers($post['postid']); ?>

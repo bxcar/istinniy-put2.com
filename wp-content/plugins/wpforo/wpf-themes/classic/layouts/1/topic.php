@@ -35,7 +35,8 @@
 		<div class="topic-wrap <?php echo $class ?>">
           <div class="wpforo-topic">
               <div class="wpforo-topic-icon" title="<?php $icon_title = WPF()->tpl->icon('topic', $topic, false, 'title'); if( $icon_title ) echo esc_html($icon_title) ?>">
-              <i class="fa-1x <?php echo $classes ?>"></i>
+<!--              <i class="fa-1x --><?php //echo $classes ?><!--"></i>-->
+                  <img src="<?= get_template_directory_uri();?>/images/forum-icon.png">
               </div>
               <div class="wpforo-topic-info">
                 <p class="wpforo-topic-title <?php wpforo_unread_topic($topic['topicid']); ?>"><a href="<?php echo esc_url($topic_url) ?>"><?php echo esc_html($topic['title']); ?></a></p>
